@@ -1,2 +1,2 @@
-version=1.0
-url=https://cdn.jsdelivr.net/gh/liaoyuan2024/ph-update-center@v1.0/kuaishou.exe
+version=1.1
+url=https://cdn.jsdelivr.net/gh/liaoyuan2024/ph-update-center@v1.1/kuaishou.exe
