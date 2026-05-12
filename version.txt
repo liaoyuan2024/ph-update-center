@@ -1,0 +1,2 @@
+version=1.2
+url=https://github.com/liaoyuan2024/ph-update-center/releases/download/v1.2/kuaishou.exe
